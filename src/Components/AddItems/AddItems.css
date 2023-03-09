@@ -1,0 +1,20 @@
+.AddItems{
+    margin-top: 50px;
+}
+
+.submit{
+    width: 320px;
+    background-color: greenyellow;
+    font-family: monospace;
+    position: relative;
+    top: -4px;
+}
+input{
+    width: 450px;
+    border: 0;
+    margin-left: 10px;
+}
+.input{
+    background-color: darkgrey;
+    font-family: cursive;
+}
